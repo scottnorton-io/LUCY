@@ -92,6 +92,12 @@ The project serves **people in pain**, not personas.
 
 Use with reverence.
 
+## Addendums
+
+- `addendum-prompt-library.md`
+- `addendum-advanced-prompt-tuning.md`
+- `addendum-voice-style.md`
+
 ---
 
 # End llms.txt
